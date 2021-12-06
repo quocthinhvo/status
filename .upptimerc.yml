@@ -22,8 +22,8 @@ status-website:
   navbar:
     - title: Home
       href: /
-    - title: Repo
-       href: https://github.com/$OWNER/$REPO
+#     - title: Repo
+#        href: https://github.com/$OWNER/$REPO
     - title: Contact
       href: https://t.me/quocthinhvo
 

@@ -4,9 +4,13 @@ repo: status # The name of this repository
 
 sites:
   - name: Cloud Storage
-    url: http://kode.ddns.net:8000
+    url: $URL_CLOUD_STORAGE
     icon: https://avatars.githubusercontent.com/u/35781395?s=200&v=4
-
+  - name: SSH Service
+    check: "tcp-ping"
+    url: $URL_BASE
+    port: 22
+    icon: https://w7.pngwing.com/pngs/951/741/png-transparent-secure-shell-ssh-keygen-computer-servers-computer-network-computer-software-shell-text-computer-logo.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -18,8 +22,8 @@ status-website:
   navbar:
     - title: Home
       href: /
-#     - title: GitHub
-#       href: https://github.com/$OWNER/$REPO
+     - title: Repo
+       href: https://github.com/$OWNER/$REPO
     - title: Contact
       href: https://t.me/quocthinhvo
 

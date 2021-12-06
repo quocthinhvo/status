@@ -19,6 +19,7 @@ status-website:
   name: Cloud Status
   introTitle: "Status of cloud service"
   introMessage: 
+  theme: dark
   navbar:
     - title: Home
       href: /
@@ -26,6 +27,7 @@ status-website:
 #        href: https://github.com/$OWNER/$REPO
     - title: Contact
       href: https://t.me/quocthinhvo
+      
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

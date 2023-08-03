@@ -5,16 +5,16 @@
     "icon": "https://avatars.githubusercontent.com/u/35781395?s=200&v=4",
     "slug": "cloud-storage",
     "status": "up",
-    "uptime": "74.02%",
-    "uptimeDay": "69.17%",
-    "uptimeWeek": "9.88%",
-    "uptimeMonth": "0.37%",
+    "uptime": "74.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "24.17%",
+    "uptimeMonth": "3.66%",
     "uptimeYear": "67.26%",
     "time": 178,
-    "timeDay": 146,
-    "timeWeek": 162,
-    "timeMonth": 173,
-    "timeYear": 176,
+    "timeDay": 37,
+    "timeWeek": 136,
+    "timeMonth": 169,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2023-08-01": 478,
       "2023-07-31": 1440,
@@ -147,7 +147,7 @@
     "icon": "https://w7.pngwing.com/pngs/951/741/png-transparent-secure-shell-ssh-keygen-computer-servers-computer-network-computer-software-shell-text-computer-logo.png",
     "slug": "ssh-service",
     "status": "down",
-    "uptime": "26.98%",
+    "uptime": "26.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -158,7 +158,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 34,
+      "2023-08-03": 35,
+      "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -521,8 +522,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   }
 ]
